@@ -24,8 +24,11 @@ Os algoritimos estudados na disciplina estão divididos nos seguintes grupos:
 - Gradiente (Prewitt e Sobel)
 - Laplaciano
 
-### Transformada de Fourier e Filtragem no Dominio da Frequência
-- FFT 2D
+### Transformadas e Filtragem no Dominio da Frequência
+- Transformada Polar (Dominio Cartesiano para o dominio Polar)
+- Transformada Cartesiana (Dominio Polar para o dominio Cartesiano)
+- Fast Fourier Transform (FFT) 2D
+
 - Filtro Ideal PA e PB
 - Filtro ButterWorth PA e PB
 - Filtro Gaussiano PA e PB
