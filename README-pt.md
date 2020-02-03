@@ -15,6 +15,10 @@ Instalação do Anaconda no Linux pode ser encontrado
 # Algoritimos
 Os algoritimos estudados na disciplina estão divididos nos seguintes grupos:
 
+### Primeiros Passos
+- Abrir imagem
+- Fazer Histograma
+
 ### Mascaras para filtragem (Restauração e Aguçamento)
 - Media
 - Media Ponderada

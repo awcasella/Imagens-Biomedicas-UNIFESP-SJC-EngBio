@@ -16,6 +16,10 @@ Instalation of Anaconda in Linux Ubuntu 18.04 can be found
 
 The algorithms studied in this discipline are divided in the folowing groups:
 
+### First Steps
+- Open image
+- Build Histogram
+
 ### Feature extraction and selection algorithms:
 
 - Intensity transformation
