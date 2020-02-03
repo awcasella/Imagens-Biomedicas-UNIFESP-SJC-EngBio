@@ -38,7 +38,6 @@ The algorithms studied in this discipline are divided in the folowing groups:
 - Polar Transform (Cartesian to Polar domain)
 - Cartesian Transform (Polar to Cartesian domain)
 - Fast Fourier Transform (FFT) 2D
-
 - Ideal Filter LP and HP
 - ButterWorth  Filter LP and HP
 - Gaussian Filter LP and HP
