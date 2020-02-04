@@ -1,6 +1,8 @@
 # Imagens Biomedicas
 This repository contains all the medical image processing algorithms studied in discipline "Imagens Biomédicas" of Biomedical Engineering course at UNIFESP in the first semester of 2017. All the algorithms are writen in both MatLab and Python Languages. The programatric content of the discipline can be found [here](https://unifesp.br/campus/sjc/images/sjc/Secretaria_de_Graduação/UCs_Vigentes/I/Imagens_Biomédicas.pdf).
 
+![](Screenshot.png)
+
 # Getting Started
 
 **Prerequisites**
