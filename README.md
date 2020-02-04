@@ -50,14 +50,8 @@ The algorithms studied in this discipline are divided in the folowing groups:
 - Root mean square error
 - Image Quality Factor
 
-### PACS and DICOM
-
-### Image Segmentation
-- Final project can be found [here](https://github.com/awcasella/Lumem-Segmentation).
 
 # Built With
 - [Anaconda](https://www.anaconda.com): Solutions for Data Science Practitioners and Enterprise Machine Learning.
 
 - [MatLab](https://www.mathworks.com): A software for numerical computation.
-
-- [Gnu Octave](https://www.gnu.org/software/octave/): Scientific Programming Language.

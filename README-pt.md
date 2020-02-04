@@ -45,14 +45,8 @@ Os algoritimos estudados na disciplina estão divididos nos seguintes grupos:
 - Raiz do Erro Médio Quadratico
 - Fator de Qualidade da Imagem
 
-### PACS e DICOM
-
-### Segmentação de imagens
-- Projeto final pode ser encontrado [aqui](https://github.com/awcasella/Lumem-Segmentation).
 
 # Feito com
 - [Anaconda](https://www.anaconda.com): Solutions for Data Science Practitioners and Enterprise Machine Learning.
 
 - [MatLab](https://www.mathworks.com): A software for numerical computation.
-
-- [Gnu Octave](https://www.gnu.org/software/octave/): Scientific Programming Language.
