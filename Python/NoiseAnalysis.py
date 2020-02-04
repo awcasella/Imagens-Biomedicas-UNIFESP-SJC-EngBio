@@ -1,11 +1,4 @@
-import re
-import numpy
-import matplotlib.pyplot as plt
-from scipy import signal
 import numpy as np
-import cv2
-from scipy.signal import filtfilt
-
 
 def avaliaSegmentacao(I, GS):
 	""" Evaluates segmentation accordingly to a gold standard """
