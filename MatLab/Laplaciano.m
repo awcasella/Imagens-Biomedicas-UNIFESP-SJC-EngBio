@@ -1,4 +1,4 @@
-function [filtrada] = Laplaciano(tipo, Imagem)
+function [filtrada] = Laplaciano(Imagem, tipo)
 % LAPLACIANO é uma função que filtra uma "Imagem" usando uma correlação
 % com kernels do tipo torre(usando só verticais ou horizontais) ou
 % dama(também usando as diagonais). 
