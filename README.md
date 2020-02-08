@@ -22,11 +22,6 @@ The algorithms studied in this discipline are divided in the folowing groups:
 - Open image
 - Build Histogram
 
-### Feature extraction and selection algorithms:
-
-- Intensity transformation
-- Correlation, Convolution and Kernel
-
 ### Filtering masks (Restauration and enhancement)
 - Moving Average
 - Weighted Moving Average
