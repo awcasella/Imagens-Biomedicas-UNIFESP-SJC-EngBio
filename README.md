@@ -7,12 +7,7 @@ This repository contains all the medical image processing algorithms studied in 
 
 **Prerequisites**
 
-To run the algorithms in this repo, you'll need to have either MatLab (or Octave) or Python 3 (and Anaconda) or both installed.
-
-**Installing Anaconda**
-
-Instalation of Anaconda in Linux Ubuntu 18.04 can be found 
-<a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04" target="_blank">here</a>.
+To run the algorithms in this repo, you'll need to have either MatLab (or Octave) or Python 3 or both installed.
 
 # Algorithms
 
