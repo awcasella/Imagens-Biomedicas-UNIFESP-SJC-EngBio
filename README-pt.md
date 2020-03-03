@@ -7,12 +7,7 @@ Esse repositório contém todos os algoritimos estudados na disciplina "Imagens 
 
 **Pré requisitos**
 
-Para executar os algoritimos deste repositório, é necessário ter MatLab (ou Octave) ou Python 3 (junto com anaconda) ou ambos instalados.
-
-**Instalando Anaconda**
-
-Instalação do Anaconda no Linux pode ser encontrado
-<a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04" target="_blank">here</a>.
+Para executar os algoritimos deste repositório, é necessário ter MatLab (ou Octave) ou Python 3 ou ambos instalados.
 
 # Algoritimos
 Os algoritimos estudados na disciplina estão divididos nos seguintes grupos:
